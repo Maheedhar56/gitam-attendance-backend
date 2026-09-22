@@ -249,6 +249,7 @@ Return only the structured JSON requested by the schema.
     models_to_try = [
         "gemini-3.6-flash",
         "gemini-3.5-flash"
+        "gemini-3.6-pro"
     ]
 
 
